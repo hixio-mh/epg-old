@@ -1,7 +1,7 @@
 # epg
 XMLTV EPG for channels, updated every 7 days
 
-#Available channels and links
+Available channels and links
 
 |Malaysia Freeview XMLTV (also known as myFreeview, available channels were free-to-air channels only / Radio included)|Link coming soon  |
 |--|--|
