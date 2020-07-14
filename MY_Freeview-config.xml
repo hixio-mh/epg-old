@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<settings>
+   
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml 
+  and http://webgrabplus.com/sites/default/files/downloads/Misc/Documented_Configuration_Files.zip -->
+   
+  <filename>guide.xml</filename>
+  <mode> </mode>
+  <postprocess grab="y" run="n"> rex </postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 Edg/79.0.309.71 </user-agent>
+  <!--<decryptkey site="site-name"> decrypt_userkey </decryptkey>-->
+  <!--<license wg-username="your webgrab+plus username" registered-email="your registered email address" password="your license password" />-->
+  <logging>on </logging>
+  <retry time-out="5"> 4 </retry>
+  <timespan>100</timespan>
+  <update>f </update>
+ 
+  <!--
+            Replace the next dummy channel entry with the channels you want.
+			You can look into the installed siteini.pack folder on your computer
+  
+            For the latest version,
+            see http://webgrabplus.com/epg-channels for the available sites/channels
+  -->
+    <channel update="i" site="astro.com.my" site_id="95" xmltv_id="TV1">TV1</channel>
+    <channel update="i" site="astro.com.my" site_id="103" xmltv_id="TV2">TV2</channel>
+    <channel update="i" site="astro.com.my" site_id="106" xmltv_id="TV3">TV3</channel>
+    <channel update="i" site="astro.com.my" site_id="93" xmltv_id="NTV7">NTV7</channel>
+    <channel update="i" site="astro.com.my" site_id="115" xmltv_id="8TV">8TV</channel>
+    <channel update="i" site="astro.com.my" site_id="160" xmltv_id="BERNAMA">BERNAMA</channel>
+    <channel update="i" site="astro.com.my" site_id="48" xmltv_id="TV9">TV9</channel>
+    <channel update="i" site="astro.com.my" site_id="149" xmltv_id="Alhijrah">TV Alhijrah</channel>
+    <channel update="i" site="astro.com.my" site_id="97" xmltv_id="Okey">TV Okey</channel>
+    <channel update="i" site="astro.com.my" site_id="294" xmltv_id="GoShop">Go Shop</channel>
+    <channel update="i" site="astro.com.my" site_id="25" xmltv_id="NAS">Nasional FM</channel>
+    <channel update="i" site="astro.com.my" site_id="303" xmltv_id="AI FM">AI FM</channel>
+    <channel update="i" site="astro.com.my" site_id="310" xmltv_id="ASYIK">ASYIK FM</channel>
+    <channel update="i" site="astro.com.my" site_id="311" xmltv_id="MINNAL">MINNAL FM</channel>
+    <channel update="i" site="astro.com.my" site_id="312" xmltv_id="TRAXX">TRAXX FM</channel>
+    <channel update="i" site="astro.com.my" site_id="145" xmltv_id="WAI">WAI FM</channel>
+ </settings>
