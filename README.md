@@ -3,9 +3,12 @@ XMLTV EPG for channels, updated every 7 days
 
 Available channels and links
 
-|Malaysia Freeview XMLTV (also known as myFreeview, available channels were free-to-air channels only / Radio included)|Link coming soon  |
+# Malaysia Freeview XMLTV (also known as myFreeview, available channels were free-to-air channels only / Radio included)
+
+
+||  |
 |--|--|
-|  |  |
+|Link|https://github.com/weareblahs/epg/raw/master/MY_Freeview.xml|
 |Channel Name| XMLTV ID |
 |TV1|TV1|
 |TV2|TV2|
@@ -23,4 +26,6 @@ Available channels and links
 |Minnal FM|MINNAL|
 |TRAXX FM|TRAXX|
 |WAI FM|WAI|
+
+
 
