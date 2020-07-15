@@ -6,10 +6,13 @@ https://github.com/freeview/iptv (Official links to Malaysia / Singapore / Brune
 
 https://github.com/exodiver/IPTV
 
+
 # Upcoming
 unifi TV XMLTV EPG (source: unifi.com.my)
 
 # Available channels and links
+
+[See Channel list and XMLTV IDs here](https://github.com/weareblahs/epg/blob/master/misc/channel_list.md)
 
 Malaysia Freeview XMLTV (also known as myFreeview, available channels were free-to-air channels only / Radio included)
 
