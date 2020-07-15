@@ -16,7 +16,7 @@ Malaysia Freeview XMLTV (also known as myFreeview, available channels were free-
 
 ||  |
 |--|--|
-|Link|https://github.com/weareblahs/epg/raw/master/MY_Freeview.xml|
+|Link|https://github.com/weareblahs/epg/raw/master/MY_Freeview.xml (XMLTV) / https://github.com/weareblahs/epg/raw/master/MY_Freeview.xml.gz (Compressed)|
 |Channel Name| XMLTV ID |
 |TV1|TV1|
 |TV2|TV2|
