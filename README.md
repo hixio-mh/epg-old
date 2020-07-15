@@ -1,5 +1,5 @@
 # epg
-XMLTV EPG for channels, updated every 7 days
+Pre-built XMLTV EPG for channels, updated every 7 days
 
 Available channels and links
 
