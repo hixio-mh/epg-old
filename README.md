@@ -8,7 +8,7 @@ https://github.com/exodiver/IPTV
 
 
 # Upcoming
-Stadium Astro XMLTV (stadiumastro.com)
+Singtel TV XMLTV (Singapore)
 
 # Available channels and links
 
