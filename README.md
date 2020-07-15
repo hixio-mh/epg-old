@@ -7,7 +7,7 @@ https://github.com/freeview/iptv (Official links to Malaysia / Singapore / Brune
 https://github.com/exodiver/IPTV
 
 # Upcoming
-Guide for Astro channels (including Astro First and Astro Best, some channels have program thumbnails)
+
 
 # Available channels and links
 
@@ -35,5 +35,7 @@ Malaysia Freeview XMLTV (also known as myFreeview, available channels were free-
 |TRAXX FM|TRAXX|
 |WAI FM|WAI|
 
-
-
+Guide for Astro channels (including Astro First and Astro Best, some channels have program thumbnails)
+||  |
+|--|--|
+|Link https://github.com/weareblahs/epg/raw/master/MY_Astro.xml / https://github.com/weareblahs/epg/raw/master/MY_Astro.xml.gz (Compressed) | 
