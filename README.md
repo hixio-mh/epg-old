@@ -6,6 +6,7 @@ https://github.com/freeview/iptv (Official links to Malaysia / Singapore / Brune
 
 https://github.com/exodiver/IPTV
 
+You can also view XMLTV files using [Ian Bishop's EPG Viewer](http://xmltvview.birtles.org.uk/epgviewer.html) (Open Source) by downloading it and opening it on this application.
 
 # Upcoming
 Singtel TV XMLTV (Singapore)
