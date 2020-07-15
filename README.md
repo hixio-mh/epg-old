@@ -9,7 +9,8 @@ https://github.com/exodiver/IPTV
 You can also view XMLTV files using [Ian Bishop's EPG Viewer](http://xmltvview.birtles.org.uk/epgviewer.html) (Open Source) by downloading it and opening it on this application.
 
 # Upcoming
-Singtel TV XMLTV (Singapore)
+TVBOX (Taiwan / Source: tvbox.qmap.tw / Traditional Chinese)
+TVB (Hong Kong / Source: tvb.com / Traditional Chinese)
 
 # Available channels and links
 
