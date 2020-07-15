@@ -19,10 +19,10 @@ Malaysia Freeview XMLTV (also known as myFreeview, available channels were free-
 
 ||  |
 |--|--|
-|Link|https://github.com/weareblahs/epg/raw/master/MY_Freeview.xml (XMLTV) / https://github.com/weareblahs/epg/raw/master/MY_Freeview.xml.gz (Compressed)|
+|Link|https://weareblahs.github.io/epg/MY_Freeview.xml (XMLTV) / https://weareblahs.github.io/epg/MY_Freeview.xml.gz (Compressed)|
 
 
 Guide for Astro channels (including Astro First and Astro Best, some channels have program thumbnails)
 ||  |
 |--|--|
-|Link |https://github.com/weareblahs/epg/raw/master/MY_Astro.xml (XMLTV) / https://github.com/weareblahs/epg/raw/master/MY_Astro.xml.gz (Compressed) | 
+|Link |https://weareblahs.github.io/epg/MY_Astro.xml (XMLTV) / https://weareblahs.github.io/epg/MY_Astro.xml.gz (Compressed) | 
