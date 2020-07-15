@@ -20,7 +20,7 @@
 |TRAXX FM|TRAXX|
 |WAI FM|WAI|
 
-- Astro | **Channel Name is same as the XMLTV ID unless stated**
+- Astro | **Channel Name is same as the XMLTV ID unless stated** (MY_Astro.xml)
 
 |Channel Name|
 |--|
@@ -263,3 +263,23 @@
 |TVBS News|
 |TVB News|
 |Astro Best HD (488)|
+
+
+
+- TVB | **Channel Name is same as the XMLTV ID unless stated** (HK_TVB.xml)
+
+|Channel Name|
+|--|
+|為食台|
+|粵語片台|
+|綜藝旅遊台|
+|華語劇台|
+|亞洲劇台|
+|韓劇台|
+|TVB經典台|
+|無綫財經 ▪ 資訊台|
+|翡翠台|
+|J2|
+|無綫新聞台|
+|Pearl|
+|TVB星河頻道|
