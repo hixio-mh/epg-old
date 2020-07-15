@@ -9,9 +9,6 @@ https://github.com/exodiver/IPTV
 You can also view XMLTV files using [Ian Bishop's EPG Viewer](http://xmltvview.birtles.org.uk/epgviewer.html) (Open Source) by downloading it and opening it on this application.
 
 # Upcoming
-TVBOX (Taiwan / Source: tvbox.qmap.tw / Traditional Chinese)
-
-TVB (Hong Kong / Source: tvb.com / Traditional Chinese)
 
 CHT MOD (Taiwan / Source: mod.tvbox.tw / Traditional Chinese)
 
@@ -39,3 +36,16 @@ Guide for SingtelTV Channels
 |--|--|
 |Link |https://weareblahs.github.io/epg/SG_SingtelTV.xml (XMLTV) / https://weareblahs.github.io/epg/SG_SingtelTV.xml.gz (Compressed) | 
 
+
+
+TVBOX (Taiwan)
+||  |
+|--|--|
+|Link |https://weareblahs.github.io/epg/TW_tvbox.xml (XMLTV) / https://weareblahs.github.io/epg/TW_tvbox.xml.gz (Compressed) | 
+
+
+
+TVB (Hong Kong)
+||  |
+|--|--|
+|Link |https://weareblahs.github.io/epg/HK_TVB.xml (XMLTV) / https://weareblahs.github.io/epg/HK_TVB.xml.gz (Compressed) | 
