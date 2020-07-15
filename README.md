@@ -8,7 +8,7 @@ https://github.com/exodiver/IPTV
 
 
 # Upcoming
-unifi TV XMLTV EPG (source: unifi.com.my)
+Stadium Astro XMLTV (stadiumastro.com)
 
 # Available channels and links
 
