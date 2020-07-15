@@ -266,6 +266,12 @@
 
 
 
+
+- SingtelTV
+
+[See here](http://singteltv.com.sg/channels-on-demand_channels.html) for channel list. "Channel Name" is the same as the XMLTV ID. Not including On Demand channels.
+
+
 - TVB | **Channel Name is same as the XMLTV ID unless stated** (HK_TVB.xml)
 
 |Channel Name|
