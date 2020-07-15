@@ -1,5 +1,10 @@
 # epg
 Pre-built XMLTV EPG for channels, updated every 7 days
+**This project didn't contain any IPTV links.** Here are some free IPTV projects:
+
+https://github.com/freeview/iptv (Official links to Malaysia / Singapore / Brunei channels and some other channels)
+
+https://github.com/exodiver/IPTV
 
 # Available channels and links
 
