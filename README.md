@@ -10,7 +10,7 @@ You can also view XMLTV files using [Ian Bishop's EPG Viewer](http://xmltvview.b
 
 # Upcoming
 
-CHT MOD (Taiwan / Source: mod.tvbox.tw / Traditional Chinese)
+Nothing
 
 # Available channels and links
 
