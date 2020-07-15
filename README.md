@@ -12,6 +12,8 @@ You can also view XMLTV files using [Ian Bishop's EPG Viewer](http://xmltvview.b
 
 Nothing
 
+**Use the Compressed option to save data and time on importing XMLTV.**
+
 # Available channels and links
 
 [See Channel list and XMLTV IDs here](https://github.com/weareblahs/epg/blob/master/misc/channel_list.md)
