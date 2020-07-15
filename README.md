@@ -1,5 +1,5 @@
 # epg
-Pre-built XMLTV EPG for channels, updated every 7 days
+Pre-built XMLTV EPG for channels, updated every 7 days. Generated manually.
 **This project didn't contain any IPTV links.** Here are some free IPTV projects:
 
 https://github.com/freeview/iptv (Official links to Malaysia / Singapore / Brunei channels and some other channels)
@@ -26,4 +26,11 @@ Guide for Astro channels (including Astro First and Astro Best, some channels ha
 ||  |
 |--|--|
 |Link |https://weareblahs.github.io/epg/MY_Astro.xml (XMLTV) / https://weareblahs.github.io/epg/MY_Astro.xml.gz (Compressed) | 
+
+
+
+Guide for SingtelTV Channels
+||  |
+|--|--|
+|Link |https://weareblahs.github.io/epg/SG_SingtelTV.xml (XMLTV) / https://weareblahs.github.io/epg/SG_SingtelTV.xml.gz (Compressed) | 
 
