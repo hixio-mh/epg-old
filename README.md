@@ -7,7 +7,7 @@ https://github.com/freeview/iptv (Official links to Malaysia / Singapore / Brune
 https://github.com/exodiver/IPTV
 
 # Upcoming
-Guide for Astro channels
+Guide for Astro channels (including Astro First and Astro Best, some channels have program thumbnails)
 
 # Available channels and links
 
