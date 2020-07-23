@@ -14,6 +14,7 @@ Nothing
 
 **Use the Compressed option to save data and time on importing XMLTV.**
 
+![](https://img.shields.io/github/issues/weareblahs/epg "that one issue counter")
 # New Channels on the provider?
 
 I only monitor Astro channels (because I actually own an Astro STB). Special Channels are added at the period (such as Stay Home Concert is added on the guide from April 14 to June 9).
