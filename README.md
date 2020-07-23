@@ -81,14 +81,6 @@ Guide for SingtelTV Channels
 |Link |https://weareblahs.github.io/epg/SG_SingtelTV.xml (XMLTV) / https://weareblahs.github.io/epg/SG_SingtelTV.xml.gz (Compressed) | 
 
 
-
-TVBOX (Taiwan)
-||  |
-|--|--|
-|Link |https://weareblahs.github.io/epg/TW_tvbox.xml (XMLTV) / https://weareblahs.github.io/epg/TW_tvbox.xml.gz (Compressed) | 
-
-
-
 TVB (Hong Kong) - No Title / Now Fixing
 ||  |
 |--|--|
