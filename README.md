@@ -85,7 +85,7 @@ Guide for SingtelTV Channels
 TVB (Hong Kong) - No Title / Now Fixing
 ||  |
 |--|--|
-|Link |https://weareblahs.github.io/epg/HK_TVB.xml (XMLTV) / https://weareblahs.github.io/epg/HK_TVB.xml.gz (Compressed) | 
+|Link |https://weareblahs.github.io/epg/HK-TVB.xml (XMLTV) / https://weareblahs.github.io/epg/HK-TVB.xml.gz (Compressed) | 
 
 TVBOX (Taiwan)
 ||  |
