@@ -66,7 +66,7 @@ Kodi (PVR IPTV Simple Client)
 Malaysia Freeview XMLTV (also known as myFreeview, available channels were free-to-air channels only / Radio included)
 ||  |
 |--|--|
-|Link|https://weareblahs.github.io/epg/MY_Freeview.xml (XMLTV) / https://weareblahs.github.io/epg/MY_Freeview.xml.gz (Compressed)|
+|Link|https://weareblahs.github.io/epg/MY-Freeview.xml (XMLTV) / https://weareblahs.github.io/epg/MY-Freeview.xml.gz (Compressed)|
 
 
 Guide for Astro channels (including Astro First and Astro Best, some channels have program thumbnails)
@@ -90,4 +90,4 @@ TVB (Hong Kong) - No Title / Now Fixing
 TVBOX (Taiwan)
 ||  |
 |--|--|
-|Link |https://weareblahs.github.io/epg/TW_tvbox.xml (XMLTV) / https://weareblahs.github.io/epg/TW_tvbox.xml.gz (Compressed) | 
+|Link |https://weareblahs.github.io/epg/TW-tvbox.xml (XMLTV) / https://weareblahs.github.io/epg/TW-tvbox.xml.gz (Compressed) | 
