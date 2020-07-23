@@ -14,13 +14,49 @@ Nothing
 
 **Use the Compressed option to save data and time on importing XMLTV.**
 
+# How to use
+1. Get your M3U file ready
+
+2. Find the line which looks like this (the line below is an example):
+
+`#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_300.png" ,TV1`
+
+3. Add the channel ID like the format below after #EXTINF: -1:
+
+`tvg-id="[XMLTV ID HERE]" `
+
+Here's an example:
+
+`#EXTINF:-1 tvg-id="TV1" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_300.png" ,TV1`
+
+4. Add more like this as you want on the channels.
+
+5. Save it.
+
+### How to import XMLTV with Guide
+
+Here are some instructions for some IPTV clients:
+
+Kodi (PVR IPTV Simple Client)
+
+1. Open the settings of PVR IPTV Simple Client (Settings > Add-ons > My Add-ons > PVR Clients > PVR IPTV Simple Client > Settings).
+
+2. Go to "EPG Settings".
+
+3. Enter the URL at the table below.
+
+4. Select "OK".
+
+5. Restart Kodi.
+
+
+
+
 # Available channels and links
 
 [See Channel list and XMLTV IDs here](https://github.com/weareblahs/epg/blob/master/misc/channel_list.md)
 
 Malaysia Freeview XMLTV (also known as myFreeview, available channels were free-to-air channels only / Radio included)
-
-
 ||  |
 |--|--|
 |Link|https://weareblahs.github.io/epg/MY_Freeview.xml (XMLTV) / https://weareblahs.github.io/epg/MY_Freeview.xml.gz (Compressed)|
