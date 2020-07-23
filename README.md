@@ -14,6 +14,12 @@ Nothing
 
 **Use the Compressed option to save data and time on importing XMLTV.**
 
+# New Channels on the provider?
+
+I only monitor Astro channels (because I actually own an Astro STB). Special Channels are added at the period (such as Stay Home Concert is added on the guide from April 14 to June 9).
+
+If theres new channels added to the other providers, [Submit an issue here and tag it "New Channel"](https://github.com/weareblahs/epg/issues/new). I'll check it weekly (or daily if I can).
+
 # How to use
 1. Get your M3U file ready
 
