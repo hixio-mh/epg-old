@@ -1,0 +1,94 @@
+﻿<?xml version="1.0"?>
+<settings>
+   
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml 
+  and http://webgrabplus.com/sites/default/files/downloads/Misc/Documented_Configuration_Files.zip -->
+   
+  <filename>guide.xml</filename>
+  <mode> </mode>
+  <postprocess grab="y" run="n"> rex </postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 Edg/79.0.309.71 </user-agent>
+  <!--<decryptkey site="site-name"> decrypt_userkey </decryptkey>-->
+  <!--<license wg-username="your webgrab+plus username" registered-email="your registered email address" password="your license password" />-->
+  <logging>on </logging>
+  <retry time-out="5"> 4 </retry>
+  <timespan>100</timespan>
+  <update>f </update>
+ 
+  <!--
+            Replace the next dummy channel entry with the channels you want.
+			You can look into the installed siteini.pack folder on your computer
+  
+            For the latest version,
+            see http://webgrabplus.com/epg-channels for the available sites/channels
+  -->
+<channel update="i" site="astro.com.my" site_id="95" xmltv_id="TV1">TV1</channel>
+<channel update="i" site="astro.com.my" site_id="103" xmltv_id="TV2">TV2</channel>
+<channel update="i" site="astro.com.my" site_id="106" xmltv_id="TV3">TV3</channel>
+<channel update="i" site="astro.com.my" site_id="93" xmltv_id="NTV7">NTV7</channel>
+<channel update="i" site="astro.com.my" site_id="115" xmltv_id="8TV">8TV</channel>
+<channel update="i" site="astro.com.my" site_id="48" xmltv_id="TV9">TV9</channel>
+<channel update="i" site="astro.com.my" site_id="296" xmltv_id="HLO">Hello HD</channel>
+<channel update="i" site="astro.com.my" site_id="97" xmltv_id="OKEY">OKEY HD</channel>
+<channel update="i" site="astro.com.my" site_id="299" xmltv_id="NRA">Naura HD</channel>
+<channel update="i" site="astro.com.my" site_id="192" xmltv_id="GSN">Go Shop Ruuma</channel>
+<channel update="i" site="astro.com.my" site_id="192" xmltv_id="GSG">Go Shop Gaaya</channel>
+<channel update="i" site="astro.com.my" site_id="202" xmltv_id="GSC">Go Shop Chinese</channel>
+<channel update="i" site="singteltv.com.sg" site_id="2" xmltv_id="CH5">Channel 5 HD</channel>
+<channel update="i" site="singteltv.com.sg" site_id="3" xmltv_id="CH8">Channel 8 HD</channel>
+<channel update="i" site="singteltv.com.sg" site_id="4" xmltv_id="SUR">Suria HD</channel>
+<channel update="i" site="singteltv.com.sg" site_id="5" xmltv_id="VAS">Vasantham HD</channel>
+<channel update="i" site="singteltv.com.sg" site_id="6" xmltv_id="CNA">CNA</channel>
+<channel update="i" site="singteltv.com.sg" site_id="7" xmltv_id="CHU">Channel U</channel>
+<channel update="i" site="singteltv.com.sg" site_id="8" xmltv_id="OKT">Okto</channel>
+<channel update="i" site="unifi.com.my" site_id="553" xmltv_id="CBE">CBeebies-A</channel>
+<channel update="i" site="uk-sky.com" site_id="2088" xmltv_id="CBU">CBeebies-U</channel>
+<channel update="i" site="astro.com.my" site_id="84" xmltv_id="AWA">AWANI</channel>
+<channel update="i" site="astro.com.my" site_id="160" xmltv_id="BERNAMA">BERNAMA</channel>
+<channel update="i" site="astro.com.my" site_id="295" xmltv_id="CNA ">Channel NewsAsia HD</channel>
+<channel update="i" site="astro.com.my" site_id="374" xmltv_id="JAZ">Al Jazeera English</channel>
+<channel update="i" site="uk-sky.com" site_id="1066" xmltv_id="ARI">Arirang TV</channel>
+<channel update="i" site="astro.com.my" site_id="78" xmltv_id="BLO">Bloomberg</channel>
+<channel update="i" site="astro.com.my" site_id="44" xmltv_id="CGN">CGTN</channel>
+<channel update="i" site="singteltv.com.sg" site_id="161" xmltv_id="DWE">DW</channel>
+<channel update="i" site="astro.com.my" site_id="68" xmltv_id="CNN">CNN</channel>
+<channel update="i" site="singteltv.com.sg" site_id="159" xmltv_id="F24">France24</channel>
+<channel update="i" site="singteltv.com.sg" site_id="157" xmltv_id="NHW">NHK World Japan</channel>
+<channel update="i" site="uk-sky.com" site_id="5314" xmltv_id="RT">RT</channel>
+<channel update="i" site="astro.com.my" site_id="155" xmltv_id="SKN">Sky News</channel>
+<channel update="i" site="uk-sky.com" site_id="5237" xmltv_id="TRT">TRT World</channel>
+<channel update="i" site="astro.com.my" site_id="414" xmltv_id="TBX">TVBS News</channel>
+<channel update="i" site="astro.com.my" site_id="52" xmltv_id="ABA">ABC Australia</channel>
+<channel update="i" site="tvbox.qmap.tw" site_id="daai" xmltv_id="DA1">DaAi TV HD</channel>
+<channel update="i" site="astro.com.my" site_id="90" xmltv_id="CT4">CCTV4 HD</channel>
+<channel update="i" site="astro.com.my" site_id="376" xmltv_id="DIS">Discovery</channel>
+<channel update="i" site="astro.com.my" site_id="140" xmltv_id="NGO">National Geographic</channel>
+<channel update="i" site="astro.com.my" site_id="43" xmltv_id="FH2">Phoenix InfoNews</channel>
+<channel update="i" site="astro.com.my" site_id="382" xmltv_id="FHZ">Phoenix</channel>
+<channel update="i" site="tvtv.us" site_id="2381D/551" xmltv_id="OLY">Olympic Channel</channel>
+<channel update="i" site="uk-sky.com" site_id="2105" xmltv_id="BB1">BBC1</channel>
+<channel update="i" site="uk-sky.com" site_id="2075" xmltv_id="BB2">BBC2</channel>
+<channel update="i" site="uk-sky.com" site_id="2078" xmltv_id="CBC">CBBC</channel>
+<channel update="i" site="uk-sky.com" site_id="2086" xmltv_id="BB4">BBC4</channel>
+<channel update="i" site="uk-sky.com" site_id="4058" xmltv_id="C5U">Channel 5 UK</channel>
+<channel update="i" site="uk-sky.com" site_id="1627" xmltv_id="C4F">Film4</channel>
+<channel update="i" site="uk-sky.com" site_id="1623" xmltv_id="CH4">Channel 4</channel>
+<channel update="i" site="uk-sky.com" site_id="6011" xmltv_id="IT1">ITV1</channel>
+<channel update="i" site="uk-sky.com" site_id="6240" xmltv_id="IT2">ITV2</channel>
+<channel update="i" site="uk-sky.com" site_id="6260" xmltv_id="IT3">ITV3</channel>
+<channel update="i" site="uk-sky.com" site_id="6272" xmltv_id="IT4">ITV4</channel>
+<channel update="i" site="astro.com.my" site_id="143" xmltv_id="HBO">HBO HD</channel>
+<channel update="i" site="astro.com.my" site_id="62" xmltv_id="MAX">CINEMAX HD</channel>
+<channel update="i" site="singteltv.com.sg" site_id="422" xmltv_id="FAM">HBO Family HD</channel>
+<channel update="i" site="singteltv.com.sg" site_id="423" xmltv_id="HIT">HBO Hits HD</channel>
+<channel update="i" site="singteltv.com.sg" site_id="425" xmltv_id="RED">Red by HBO HD</channel>
+<channel update="i" site="singteltv.com.sg" site_id="421" xmltv_id="SIG">HBO Signature HD</channel>
+<channel update="i" site="astro.com.my" site_id="14" xmltv_id="ERA">ERA</channel>
+<channel update="i" site="astro.com.my" site_id="15" xmltv_id="MY">MY</channel>
+<channel update="i" site="astro.com.my" site_id="17" xmltv_id="HITZ">HITZ</channel>
+<channel update="i" site="astro.com.my" site_id="18" xmltv_id="MIX">MIX</channel>
+<channel update="i" site="astro.com.my" site_id="19" xmltv_id="LITE">LITE</channel>
+<channel update="i" site="astro.com.my" site_id="30" xmltv_id="RAG">RAAGA</channel>
+<channel update="i" site="astro.com.my" site_id="26" xmltv_id="SIN">SINAR</channel>
+<channel update="i" site="astro.com.my" site_id="28" xmltv_id="MEL">MELODY</channel>
+ </settings>
