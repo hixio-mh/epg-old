@@ -65,7 +65,7 @@
 <channel update="i" site="astro.com.my" site_id="140" xmltv_id="NGO">National Geographic</channel>
 <channel update="i" site="astro.com.my" site_id="43" xmltv_id="FH2">Phoenix InfoNews</channel>
 <channel update="i" site="astro.com.my" site_id="382" xmltv_id="FHZ">Phoenix</channel>
-<channel update="i" site="tvtv.us" site_id="2381D/551" xmltv_id="OLY">Olympic Channel</channel>
+<channel update="i" site="tvtv.us" site_id="2381D/569" xmltv_id="OLY">Olympic Channel</channel>
 <channel update="i" site="uk-sky.com" site_id="2105" xmltv_id="BB1">BBC1</channel>
 <channel update="i" site="uk-sky.com" site_id="2075" xmltv_id="BB2">BBC2</channel>
 <channel update="i" site="uk-sky.com" site_id="2078" xmltv_id="CBC">CBBC</channel>
@@ -91,4 +91,8 @@
 <channel update="i" site="astro.com.my" site_id="30" xmltv_id="RAG">RAAGA</channel>
 <channel update="i" site="astro.com.my" site_id="26" xmltv_id="SIN">SINAR</channel>
 <channel update="i" site="astro.com.my" site_id="28" xmltv_id="MEL">MELODY</channel>
+<channel update="i" site="astro.com.my" site_id="74" xmltv_id="FS1">FOX Sports HD</channel>
+<channel update="i" site="astro.com.my" site_id="72" xmltv_id="FS2">FOX Sports 2 HD</channel>
+<channel update="i" site="astro.com.my" site_id="58" xmltv_id="FS3">FOX Sports 3 HD</channel>
+<channel update="i" site="astro.com.my" site_id="161" xmltv_id="KBW">KBSW HD</channel>
  </settings>
