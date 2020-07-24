@@ -95,4 +95,5 @@
 <channel update="i" site="astro.com.my" site_id="72" xmltv_id="FS2">FOX Sports 2 HD</channel>
 <channel update="i" site="astro.com.my" site_id="58" xmltv_id="FS3">FOX Sports 3 HD</channel>
 <channel update="i" site="astro.com.my" site_id="161" xmltv_id="KBW">KBSW HD</channel>
+<channel update="i" site="astro.com.my" site_id="34" xmltv_id="AXN">AXN</channel>
  </settings>
