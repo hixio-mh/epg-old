@@ -10,7 +10,11 @@ You can also view XMLTV files using [Ian Bishop's EPG Viewer](http://xmltvview.b
 
 # Updates
 
-TVBOX (Taiwan): Seems like all the guides were redirecting to Animax. If you found any error or duplicating stuffs on it, submit an error. (EN) / 看來所有在 "TVBOX電視節目表" 網站所索取的節目表全部都是 "ANIMAX動漫台" 的節目表。若發現到錯誤，請使用GitHub的 "Issues" 功能提交錯誤 - 可接受中文。 (ZH)
+TVBOX (Taiwan): Seems like all the guides were redirecting to Animax. If you found any error or duplicating stuffs on it, submit an error. (EN) / 看來所有在 "TVBOX電視節目表" 網站所索取的節目表全部都是從 "ANIMAX動漫台" 複製的節目表。若發現到錯誤，請使用GitHub的 "Issues" 功能提交錯誤 - 可接受中文。 (ZH)
+
+Astro (Malaysia): Astro GO-exclusive channels (such as Aniplus, DW English, K+) will be available on these channel guides, still debunking the codes of the Astro API.
+
+TVB (Hong Kong): Chinese titles can't be show (Only TVB Pearl will normally show it because it's all English). Will try to fix it. (EN) / 目前發現到TVB的節目表上的中文題目不能被顯示 (應該只有明珠台顯示正常 - 幾乎全都是英文) ，現在在試著修復。 (ZH)
 
 # Upcoming
 
@@ -86,7 +90,7 @@ Guide for SingtelTV Channels
 |Link |https://weareblahs.github.io/epg/SG_SingtelTV.xml (XMLTV) / https://weareblahs.github.io/epg/SG_SingtelTV.xml.gz (Compressed) | 
 
 
-TVB (Hong Kong) - No Title / Now Fixing
+TVB (Hong Kong) - No Title / Trying to fix
 ||  |
 |--|--|
 |Link |https://weareblahs.github.io/epg/HK-TVB.xml (XMLTV) / https://weareblahs.github.io/epg/HK-TVB.xml.gz (Compressed) | 
