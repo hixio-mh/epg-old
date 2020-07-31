@@ -8,6 +8,10 @@ https://github.com/exodiver/IPTV
 
 You can also view XMLTV files using [Ian Bishop's EPG Viewer](http://xmltvview.birtles.org.uk/epgviewer.html) (Open Source) by downloading it and opening it on this application.
 
+# Updates
+
+TVBOX (Taiwan): Seems like all the guides were redirecting to Animax. If you found any error or duplicating stuffs on it, submit an error. (EN) / 看來所有在 "TVBOX電視節目表" 網站所索取的節目表全部都是 "ANIMAX動漫台" 的節目表。若發現到錯誤，請使用GitHub的 "Issues" 功能提交錯誤 - 可接受中文。 (ZH)
+
 # Upcoming
 
 Nothing
