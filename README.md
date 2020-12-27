@@ -1,3 +1,5 @@
+# Updates
+This project will continue in 28 December, 2020 as I'll continue using IPTV as my main device.
 # epg
 Pre-built XMLTV EPG for channels, updated every 7 days. Generated manually.
 **This project didn't contain any IPTV links.** Here are some free IPTV projects:
