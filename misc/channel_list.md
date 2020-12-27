@@ -263,7 +263,8 @@
 |TVBS News|
 |TVB News|
 |Astro Best HD (488)|
-
+|Nick Jr HD|
+|Boomerang|
 
 
 
