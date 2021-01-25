@@ -1,18 +1,14 @@
-# Updates
-This project will continue in 28 December, 2020 as I'll continue using IPTV as my main device.
+# UPDATE - 25/1/2020
+I will be upgrading to the newest WebGrab+Plus Version (because some of the websites were encrypted) - this might take a long time to upgrade. 
+<i> EPG will split as 4 parts for Astro and 2 parts for Freeview TV. </i>
+<i> I will also combine all the EPGs as a link for importing. </i>
 # epg
 Pre-built XMLTV EPG for channels, updated every 7 days. Generated manually.
 **This project didn't contain any IPTV links.** Here are some free IPTV projects:
 
 https://github.com/freeview/iptv (Official links to Malaysia / Singapore / Brunei channels and some other channels)
 
-https://github.com/exodiver/IPTV
-
 You can also view XMLTV files using [Ian Bishop's EPG Viewer](http://xmltvview.birtles.org.uk/epgviewer.html) (Open Source) by downloading it and opening it on this application.
-
-# Updates
-
-From now on, I only mantain Astro and Malaysia Freevide channels.
 
 # Upcoming
 
