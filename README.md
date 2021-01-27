@@ -2,6 +2,8 @@
 I will be upgrading to the newest WebGrab+Plus Version (because some of the websites were encrypted) - this might take a long time to upgrade. 
 <i> EPG will split as 4 parts for Astro and 2 parts for Freeview TV. </i>
 <i> I will also combine all the EPGs as a link for importing. </i>
+
+UPDATE (again): I will be trying to upload the EPGs automatically using Raspberry Pi soon.
 # epg
 Pre-built XMLTV EPG for channels, updated every 7 days. Generated manually.
 **This project didn't contain any IPTV links.** Here are some free IPTV projects:
