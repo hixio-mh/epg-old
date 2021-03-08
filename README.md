@@ -1,11 +1,6 @@
-# UPDATE - 25/1/2020
-I will be upgrading to the newest WebGrab+Plus Version (because some of the websites were encrypted) - this might take a long time to upgrade. 
-<i> EPG will split as 4 parts for Astro and 2 parts for Freeview TV. </i>
-<i> I will also combine all the EPGs as a link for importing. </i>
-# New Channels
-RTM Sports HD (EPG ID: TV SUKAN)
-# New Sources
-RTM MyKlik
+# Currently available sources
+- Astro (astro.com.my)
+- RTM Klik
 
 UPDATE (again): I will be trying to upload the EPGs automatically using Raspberry Pi soon.
 # epg
