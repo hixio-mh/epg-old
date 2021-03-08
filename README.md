@@ -1,8 +1,6 @@
-# Currently available sources
-- Astro (astro.com.my)
-- RTM Klik
+# Coming back soon!
+I will be updating Astro and RTM Klik XMLTV data soon. Stay tuned! (starting between March 9 - 12)
 
-UPDATE (again): I will be trying to upload the EPGs automatically using Raspberry Pi soon.
 # epg
 Pre-built XMLTV EPG for channels, updated every 7 days. Generated manually.
 **This project didn't contain any IPTV links.** Here are some free IPTV projects:
