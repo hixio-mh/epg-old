@@ -1,3 +1,6 @@
+# Notes
+The EPG will be categorized into categories. More information coming soon.
+
 # Coming back soon!
 I will be updating Astro and RTM Klik XMLTV data soon. Stay tuned! (starting between March 9 - 12)
 
