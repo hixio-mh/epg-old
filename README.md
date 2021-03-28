@@ -1,14 +1,11 @@
-# Notes
-The EPG will be categorized into categories. More information coming soon.
-
-# Coming back soon!
-I will be updating Astro and RTM Klik XMLTV data soon. Stay tuned! (starting between March 9 - 12)
+# Future Updates: MYTV Broadcasting channels / Astro Channels
+XMLTV ID will be changed to channel numbers (for example, if you want the guide to TV1, you have to change tvg-id="TV1" to tvg-id="101").
 
 # epg
 Pre-built XMLTV EPG for channels, updated every 7 days. Generated manually.
 **This project didn't contain any IPTV links.** Here are some free IPTV projects:
 
-https://github.com/freeview/iptv (Official links to Malaysia / Singapore / Brunei channels and some other channels)
+https://t.me/s/helpfreeviewinfo (Official links to Malaysia / Singapore / Brunei channels and some other channels)
 
 You can also view XMLTV files using [Ian Bishop's EPG Viewer](http://xmltvview.birtles.org.uk/epgviewer.html) (Open Source) by downloading it and opening it on this application.
 
@@ -73,7 +70,7 @@ Malaysia Freeview XMLTV (also known as myFreeview, available channels were free-
 |Link|https://weareblahs.github.io/epg/MY-Freeview.xml (XMLTV) / https://weareblahs.github.io/epg/MY-Freeview.xml.gz (Compressed)|
 
 
-Guide for Astro channels (including Astro First and Astro Best, some channels have program thumbnails)
+Guide for Astro channels
 ||  |
 |--|--|
 |Link |https://weareblahs.github.io/epg/MY_Astro.xml (XMLTV) / https://weareblahs.github.io/epg/MY_Astro.xml.gz (Compressed) | 
