@@ -1,3 +1,6 @@
+# Now Moving!
+This repository will be called as "epg-old" in a future state. To see the moved version, visit https://github.com/weareblahs/epg/.
+
 # Future Updates: MYTV Broadcasting channels / Astro Channels
 XMLTV ID will be changed to channel numbers (for example, if you want the guide to TV1, you have to change tvg-id="TV1" to tvg-id="101").
 
